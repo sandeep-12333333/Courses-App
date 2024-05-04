@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="GOOGLE"
+        android:visible="true"
+        android:id="@+id/main"
+      />
+    <item android:title="CourseContent"
+        android:id="@+id/course"
+        />
+
+
+</menu>

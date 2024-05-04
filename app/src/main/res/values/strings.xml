@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="default_web_client_id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="itemList">
+        <item>Associate of Arts (AA)</item>
+        <item>Associate of Science (AS)</item>
+        <item>Bachelor of Science (BS)</item>
+        <item>Bachelor of Technology in Computer Science and Engineering (BTech CSE)</item>
+        <item>Bachelor of Technology in Mechanical Engineering (BTech ME)</item>
+        <item>Bachelor of Technology in Electrical Engineering (BTech ECE)</item>
+        <item>Master of Technology in Computer Science (MTech CSE)</item>
+        <item>Bachelor of Business Administration (BBA)</item>
+        <item>Bachelor of Business Administration (BBA)</item>
+        <item>Master of Science (MS)</item>
+        <item>Master of Arts (MA)</item>
+        <item>Master of Business Administration (MBA)</item>
+
+    </string-array>
+    <string-array name="itemList1">
+        <item>Graphic Design Masterclass: Learn GREAT Design</item>
+        <item>ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners</item>
+        <item>HTML Tutorials for Beginners</item>
+        <item>Web Development Course (Apna college)</item>
+        <item>Web Development Course (CodeWithHarry)</item>
+        <item>Complete Backened Developer Course (Chai aur Code)</item>
+    </string-array>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="CourseContent" />
+    <string name="Google" />
+</resources>
